@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{DA22DF61-B829-4B15-906E-F3945090579C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="To-Do-App/Pages/Error.cshtml.cs">
+    <Files>
+      <File FileName="To-Do-App/Pages/Home.cshtml" Line="25" Column="33" />
+      <File FileName="To-Do-App/Startup.cs" />
+      <File FileName="To-Do-App/Pages/Home.cshtml.cs" Line="32" Column="57" />
+      <File FileName="To-Do-App/Pages/AddToDo.cshtml" Line="15" Column="10" />
+      <File FileName="To-Do-App/Program.cs" />
+      <File FileName="To-Do-App/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/Shared/_Layout.cshtml" Line="22" Column="33" />
+      <File FileName="To-Do-App/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/AddToDo.cshtml.cs" Line="62" Column="60" />
+      <File FileName="To-Do-App/Services/ToDoService.cs" Line="51" Column="25" />
+      <File FileName="To-Do-App/Model/ToDoModel.cs" Line="14" Column="8" />
+      <File FileName="To-Do-App/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="To-Do-App/Pages/Error.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="To-Do-App" expanded="True">
+            <Node name="To-Do-App" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="AddToDo.cshtml" expanded="True" />
+                <Node name="Error.cshtml" expanded="True">
+                  <Node name="Error.cshtml.cs" selected="True" />
+                </Node>
+                <Node name="Home.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.To-Do-App PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

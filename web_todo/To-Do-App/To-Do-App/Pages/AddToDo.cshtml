@@ -1,0 +1,25 @@
+@page "{id:int?}"
+@model To_Do_App.Pages.AddToDoModel
+@{ ViewData["Title"] = "To Do"; }
+
+<h1>Todo</h1>
+
+<body>
+    <form method="post">
+        <fieldset>
+            <div>
+                <label for="Todo">Todo:</label>
+               
+                <textarea name="Todo" rows="4" cols="50">@Html.DisplayFor(modelItem => Model.Todo)</textarea>
+            </div>
+         
+            <div>
+                <label>&nbsp;</label>
+                <td><input type="submit" value="Submit" asp-page-handler="Submit"/></td>
+            </div>
+        </fieldset>
+    </form>
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
